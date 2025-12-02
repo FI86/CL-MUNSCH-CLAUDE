@@ -42,7 +42,7 @@ public class JDBC {
             // Informations sur la table a partir d'un ResultSet
             
             // Parcours du ResultSet
-            // Il existe des methodes tel que next, previuos, first, last ...
+            // Il existe des methodes tel que next, previous, first, last ...
 
             // Premier parametre de la requete
             
